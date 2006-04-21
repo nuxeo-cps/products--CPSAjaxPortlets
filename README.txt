@@ -2,6 +2,6 @@
 CPSAjaxPortlets
 ===============
 
-This products gathers portlets that uses
+This product gathers portlets that uses
 Ajax.
 
